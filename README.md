@@ -1,1 +1,1 @@
-Project Kohlrausch Is a active monitor to track all the happenings around the world
+Project Kohlrausch Is The main cyberdeck for slyr.cpp
